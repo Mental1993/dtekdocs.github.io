@@ -10,10 +10,10 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Αρχική
-  categories: Κατηγορίες
+  home: Αρχικη
+  categories: Κατηγοριες
   tags: Ετικέτες
-  archives: Αρχεία
+  archives: Αρχεια
   about: Σχετικά
 
 # the text displayed in the search bar & search results
@@ -23,8 +23,8 @@ search:
   no_results: Oops! Κανένα αποτέλεσμα δεν βρέθηκε.
 
 panel:
-  lastmod: Σχετικά ενημερωμένα
-  trending_tags: Ετικέτες τάσης
+  lastmod: Πρόσφατα άρθρα
+  trending_tags: Trending tags
   toc: Περιεχόμενα
 
 copyright:
